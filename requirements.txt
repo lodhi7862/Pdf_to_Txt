@@ -1,0 +1,4 @@
+pytesseract
+flask
+pdf2image
+pillow
